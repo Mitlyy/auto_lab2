@@ -1,0 +1,26 @@
+{
+  "n_datasets_custom": 330,
+  "n_datasets_pymfe": 330,
+  "base_algorithms": [
+    "logreg",
+    "knn",
+    "random_forest"
+  ],
+  "validation_metric": "balanced_accuracy",
+  "custom_invariance_max_abs_diff": 2.842170943040401e-14,
+  "pymfe_invariance_max_abs_diff": 0.00898155623932792,
+  "custom_best_meta_model": {
+    "model": "knn",
+    "accuracy_mean": 0.5606060606060606,
+    "accuracy_std": 0.02535333413739626,
+    "balanced_accuracy_mean": 0.42964553069816225,
+    "balanced_accuracy_std": 0.023385849423133872
+  },
+  "pymfe_best_meta_model": {
+    "model": "knn",
+    "accuracy_mean": 0.5909090909090908,
+    "accuracy_std": 0.03319530651546462,
+    "balanced_accuracy_mean": 0.4454076085655033,
+    "balanced_accuracy_std": 0.03517500943117621
+  }
+}

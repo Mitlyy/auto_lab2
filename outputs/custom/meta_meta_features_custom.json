@@ -1,0 +1,20 @@
+{
+  "mf_basic_n_samples": 330.0,
+  "mf_basic_n_features": 18.0,
+  "mf_basic_n_numeric": 18.0,
+  "mf_basic_n_categorical": 0.0,
+  "mf_basic_n_classes": 3.0,
+  "mf_basic_missing_ratio": 0.0,
+  "mf_stat_num_mean_abs": 13873.987381421066,
+  "mf_stat_num_std_mean": 210639.0893605106,
+  "mf_stat_num_skew_abs_mean": 5.440261274083926,
+  "mf_stat_num_kurt_mean": 54.61646530312833,
+  "mf_stat_abs_corr_mean": 0.12798173499043727,
+  "mf_stat_target_entropy": 1.4055553831972076,
+  "mf_struct_samples_per_feature": 18.333333333333332,
+  "mf_struct_cat_to_num_ratio": 0.0,
+  "mf_struct_class_imbalance": 3.490566037735849,
+  "mf_struct_mean_unique_ratio": 0.4804713804713805,
+  "mf_struct_zero_ratio_numeric": 0.19983164983164983,
+  "mf_struct_avg_cat_cardinality": 0.0
+}

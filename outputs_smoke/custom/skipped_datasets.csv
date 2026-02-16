@@ -1,0 +1,5 @@
+dataset_id,file,reason
+2,2.arff,"C value not in ('C ', 'H ', 'G')"
+7,7.arff,class with <2 instances
+42,42.arff,"same-lst-sev-yrs value not in ('diff-lst-year', 'same-lst-yr', 'same-lst-two-yrs', ' same-lst-sev-yrs')"
+52,52.arff,too few rows after target cleanup

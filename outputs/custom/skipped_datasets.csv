@@ -1,0 +1,252 @@
+dataset_id,file,reason
+2,2.arff,"C value not in ('C ', 'H ', 'G')"
+7,7.arff,class with <2 instances
+42,42.arff,"same-lst-sev-yrs value not in ('diff-lst-year', 'same-lst-yr', 'same-lst-two-yrs', ' same-lst-sev-yrs')"
+52,52.arff,too few rows after target cleanup
+163,163.arff,too few rows after target cleanup
+171,171.arff,class with <2 instances
+183,183.arff,class with <2 instances
+186,186.arff,class with <2 instances
+190,190.arff,class with <2 instances
+191,191.arff,class with <2 instances
+192,192.arff,class with <2 instances
+193,193.arff,class with <2 instances
+195,195.arff,class with <2 instances
+196,196.arff,class with <2 instances
+199,199.arff,class with <2 instances
+200,200.arff,class with <2 instances
+202,202.arff,class with <2 instances
+203,203.arff,class with <2 instances
+204,204.arff,class with <2 instances
+206,206.arff,class with <2 instances
+207,207.arff,class with <2 instances
+208,208.arff,too few rows after target cleanup
+209,209.arff,class with <2 instances
+210,210.arff,class with <2 instances
+211,211.arff,too few rows after target cleanup
+212,212.arff,class with <2 instances
+213,213.arff,class with <2 instances
+214,214.arff,class with <2 instances
+217,217.arff,class with <2 instances
+222,222.arff,class with <2 instances
+223,223.arff,class with <2 instances
+224,224.arff,class with <2 instances
+226,226.arff,too few rows after target cleanup
+228,228.arff,class with <2 instances
+229,229.arff,class with <2 instances
+230,230.arff,class with <2 instances
+232,232.arff,class with <2 instances
+339,339.arff,too few rows after target cleanup
+343,343.arff,class with <2 instances
+402,402.arff,too few rows after target cleanup
+403,403.arff,too few rows after target cleanup
+404,404.arff,too few rows after target cleanup
+406,406.arff,too few rows after target cleanup
+408,408.arff,too few rows after target cleanup
+409,409.arff,class with <2 instances
+411,411.arff,too few rows after target cleanup
+412,412.arff,too few rows after target cleanup
+413,413.arff,too few rows after target cleanup
+414,414.arff,too few rows after target cleanup
+415,415.arff,too few rows after target cleanup
+417,417.arff,too few rows after target cleanup
+419,419.arff,too few rows after target cleanup
+421,421.arff,too few rows after target cleanup
+423,423.arff,too few rows after target cleanup
+424,424.arff,class with <2 instances
+425,425.arff,too few rows after target cleanup
+426,426.arff,too few rows after target cleanup
+427,427.arff,too few rows after target cleanup
+428,428.arff,too few rows after target cleanup
+429,429.arff,too few rows after target cleanup
+431,431.arff,too few rows after target cleanup
+432,432.arff,too few rows after target cleanup
+433,433.arff,too few rows after target cleanup
+434,434.arff,class with <2 instances
+435,435.arff,too few rows after target cleanup
+436,436.arff,too few rows after target cleanup
+437,437.arff,too few rows after target cleanup
+438,438.arff,too few rows after target cleanup
+440,440.arff,too few rows after target cleanup
+441,441.arff,too few rows after target cleanup
+442,442.arff,too few rows after target cleanup
+443,443.arff,class with <2 instances
+453,453.arff,class with <2 instances
+456,456.arff,class with <2 instances
+457,457.arff,too few rows after target cleanup
+462,462.arff,too few rows after target cleanup
+477,477.arff,class with <2 instances
+482,482.arff,class with <2 instances
+483,483.arff,too few rows after target cleanup
+485,485.arff,class with <2 instances
+486,486.arff,too few rows after target cleanup
+487,487.arff,too few rows after target cleanup
+488,488.arff,class with <2 instances
+490,490.arff,class with <2 instances
+491,491.arff,class with <2 instances
+492,492.arff,class with <2 instances
+493,493.arff,class with <2 instances
+494,494.arff,class with <2 instances
+495,495.arff,class with <2 instances
+497,497.arff,class with <2 instances
+498,498.arff,class with <2 instances
+500,500.arff,class with <2 instances
+508,508.arff,too few rows after target cleanup
+509,509.arff,class with <2 instances
+511,511.arff,class with <2 instances
+512,512.arff,class with <2 instances
+513,513.arff,class with <2 instances
+515,515.arff,too few rows after target cleanup
+518,518.arff,class with <2 instances
+519,519.arff,class with <2 instances
+520,520.arff,class with <2 instances
+521,521.arff,class with <2 instances
+522,522.arff,class with <2 instances
+523,523.arff,class with <2 instances
+525,525.arff,class with <2 instances
+526,526.arff,class with <2 instances
+527,527.arff,class with <2 instances
+528,528.arff,class with <2 instances
+529,529.arff,class with <2 instances
+530,530.arff,class with <2 instances
+531,531.arff,class with <2 instances
+532,532.arff,too few rows after target cleanup
+533,533.arff,class with <2 instances
+534,534.arff,class with <2 instances
+535,535.arff,class with <2 instances
+536,536.arff,class with <2 instances
+539,539.arff,too few rows after target cleanup
+541,541.arff,class with <2 instances
+542,542.arff,class with <2 instances
+543,543.arff,"Error while parsing header, error was: 'utf-8' codec can't decode byte 0x93 in position 388: invalid start byte"
+544,544.arff,class with <2 instances
+545,545.arff,no feature columns
+547,547.arff,class with <2 instances
+549,549.arff,class with <2 instances
+550,550.arff,class with <2 instances
+551,551.arff,class with <2 instances
+552,552.arff,too few rows after target cleanup
+555,555.arff,class with <2 instances
+556,556.arff,class with <2 instances
+557,557.arff,class with <2 instances
+559,559.arff,too few rows after target cleanup
+560,560.arff,class with <2 instances
+561,561.arff,class with <2 instances
+563,563.arff,class with <2 instances
+565,565.arff,class with <2 instances
+566,566.arff,class with <2 instances
+567,567.arff,class with <2 instances
+568,568.arff,class with <2 instances
+569,569.arff,class with <2 instances
+570,570.arff,class with <2 instances
+575,575.arff,class with <2 instances
+576,576.arff,class with <2 instances
+577,577.arff,class with <2 instances
+578,578.arff,class with <2 instances
+579,579.arff,class with <2 instances
+581,581.arff,class with <2 instances
+582,582.arff,class with <2 instances
+584,584.arff,class with <2 instances
+585,585.arff,class with <2 instances
+587,587.arff,class with <2 instances
+591,591.arff,class with <2 instances
+593,593.arff,class with <2 instances
+594,594.arff,class with <2 instances
+595,595.arff,class with <2 instances
+596,596.arff,class with <2 instances
+597,597.arff,class with <2 instances
+599,599.arff,class with <2 instances
+600,600.arff,class with <2 instances
+601,601.arff,class with <2 instances
+602,602.arff,class with <2 instances
+603,603.arff,class with <2 instances
+604,604.arff,class with <2 instances
+605,605.arff,class with <2 instances
+606,606.arff,class with <2 instances
+608,608.arff,class with <2 instances
+609,609.arff,class with <2 instances
+611,611.arff,class with <2 instances
+612,612.arff,class with <2 instances
+613,613.arff,class with <2 instances
+614,614.arff,class with <2 instances
+615,615.arff,class with <2 instances
+617,617.arff,class with <2 instances
+619,619.arff,class with <2 instances
+621,621.arff,class with <2 instances
+623,623.arff,class with <2 instances
+624,624.arff,class with <2 instances
+625,625.arff,class with <2 instances
+627,627.arff,class with <2 instances
+628,628.arff,class with <2 instances
+629,629.arff,class with <2 instances
+630,630.arff,class with <2 instances
+631,631.arff,class with <2 instances
+632,632.arff,class with <2 instances
+633,633.arff,class with <2 instances
+634,634.arff,class with <2 instances
+635,635.arff,class with <2 instances
+636,636.arff,class with <2 instances
+638,638.arff,class with <2 instances
+639,639.arff,class with <2 instances
+640,640.arff,class with <2 instances
+641,641.arff,class with <2 instances
+642,642.arff,class with <2 instances
+643,643.arff,class with <2 instances
+644,644.arff,class with <2 instances
+646,646.arff,class with <2 instances
+647,647.arff,class with <2 instances
+648,648.arff,class with <2 instances
+649,649.arff,class with <2 instances
+651,651.arff,class with <2 instances
+652,652.arff,class with <2 instances
+653,653.arff,class with <2 instances
+654,654.arff,class with <2 instances
+655,655.arff,class with <2 instances
+656,656.arff,class with <2 instances
+657,657.arff,class with <2 instances
+658,658.arff,class with <2 instances
+659,659.arff,class with <2 instances
+660,660.arff,class with <2 instances
+661,661.arff,too few rows after target cleanup
+663,663.arff,class with <2 instances
+664,664.arff,class with <2 instances
+665,665.arff,class with <2 instances
+666,666.arff,class with <2 instances
+668,668.arff,class with <2 instances
+669,669.arff,too few rows after target cleanup
+670,670.arff,class with <2 instances
+671,671.arff,class with <2 instances
+672,672.arff,class with <2 instances
+673,673.arff,class with <2 instances
+674,674.arff,too few rows after target cleanup
+675,675.arff,class with <2 instances
+676,676.arff,class with <2 instances
+678,678.arff,class with <2 instances
+680,680.arff,class with <2 instances
+681,681.arff,class with <2 instances
+684,684.arff,class with <2 instances
+686,686.arff,class with <2 instances
+687,687.arff,class with <2 instances
+689,689.arff,class with <2 instances
+690,690.arff,class with <2 instances
+691,691.arff,class with <2 instances
+693,693.arff,class with <2 instances
+695,695.arff,class with <2 instances
+696,696.arff,class with <2 instances
+697,697.arff,class with <2 instances
+698,698.arff,class with <2 instances
+699,699.arff,class with <2 instances
+702,702.arff,class with <2 instances
+704,704.arff,class with <2 instances
+705,705.arff,class with <2 instances
+706,706.arff,class with <2 instances
+707,707.arff,class with <2 instances
+708,708.arff,class with <2 instances
+709,709.arff,class with <2 instances
+711,711.arff,class with <2 instances
+712,712.arff,class with <2 instances
+760,760.arff,too few rows after target cleanup
+836,836.arff,too few rows after target cleanup
+848,848.arff,too few rows after target cleanup
+905,905.arff,too few rows after target cleanup
+964,964.arff,too few rows after target cleanup
