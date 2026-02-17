@@ -1,25 +1,6 @@
 # Lab 2
 
-
-## Структура проекта
-```text
-auto_lab2/
-  run_auto_lab2.py
-  src/auto_lab2/
-    config.py
-    data_io.py
-    meta_features.py
-    modeling.py
-    pymfe_features.py
-    visualization.py
-    pipeline.py
-  outputs/
-    custom/
-    pymfe/
-    report.json
-```
-
-## Чек-лист задания
+## Чек-лист 
 | Пункт | Что требовалось | Что сделано | Где смотреть |
 |---|---|---|---|
 | 1 | Получить наборы данных OpenML | Использован локальный архив `.arff` + индекс | `OpenML/data`, `OpenML/data.csv` |
@@ -32,13 +13,13 @@ auto_lab2/
 | 8 | Извлечь мета-признаки из полученного мета-набора | Извлечены мета-мета признаки custom MF | `outputs/custom/meta_meta_features_custom.json` |
 | 9 | Повторить шаги 3-8 на мета-признаках PyMFE | Полный повтор выполнен на PyMFE, 330 датасетов | `outputs/pymfe/meta_dataset_pymfe.csv`, `outputs/pymfe/invariance_pymfe.csv`, `outputs/pymfe/meta_projection_pymfe.png`, `outputs/pymfe/meta_models_pymfe.csv`, `outputs/pymfe/meta_meta_features_pymfe.json` |
 
-## Ключевые результаты (шаг 7 и шаг 9)
+## Ключевые результаты
 | Ветка признаков | Лучшая мета-модель | Accuracy (5-fold) | Balanced Accuracy (5-fold) |
 |---|---:|---:|---:|
 | Custom | `knn` | `0.5606` | `0.4296` |
 | PyMFE | `knn` | `0.5909` | `0.4454` |
 
-### Custom: все мета-модели (шаг 7)
+### Custom: все мета-модели
 | Модель | Accuracy | Balanced Accuracy |
 |---|---:|---:|
 | `knn` | `0.5606` | `0.4296` |
@@ -46,7 +27,7 @@ auto_lab2/
 | `logreg` | `0.5576` | `0.3724` |
 | `dummy_most_frequent` | `0.5606` | `0.3333` |
 
-### PyMFE: все мета-модели (шаг 9)
+### PyMFE: все мета-модели
 | Модель | Accuracy | Balanced Accuracy |
 |---|---:|---:|
 | `knn` | `0.5909` | `0.4454` |
